@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dd4d28a0b5d33c64497968fd7ae9c11c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Tile1: {fileID: 8572013190673969012, guid: f9435eec3fdef8644bffe99655fc2624, type: 3}
+  - Tile2: {fileID: 7602905974444657461, guid: d3d5b572d1c4d394db4c9ce51f89500c, type: 3}
+  - StartTile: {fileID: 1041239576174535838, guid: 62d98be4334e45d4b9f804be401f2529, type: 3}
+  - playerTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
